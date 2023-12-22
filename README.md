@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ruben Sanchez and I'm 22
-- ⁕ I’m a mechatronics engineering student from UABC
+- ⁕ I’m a mechatronic engineer
 - ⁕ I’m currently learning Python and C++ and web development
   
 
