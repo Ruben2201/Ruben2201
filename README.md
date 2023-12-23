@@ -7,7 +7,7 @@ Hi, I'm Ruben Sanchez, a passionate mechatronic engineer with a background in [m
 
 ## Learning Goals
 
-![Untitled](https://github.com/Ruben2201/Ruben2201/assets/148841907/614dd629-9e7e-41fd-9f40-fad0ca2a64ff)
+![Knowledge](https://github.com/Ruben2201/Ruben2201/assets/148841907/d4a990cc-3247-4729-ae03-35a71df00a7c)
 
 1. **Python Mastery:** Strengthening my Python skills for applications in automation, control systems, and data analysis.
 2. **Web Development:** Learning front-end and back-end technologies to create interactive and responsive web interfaces for mechatronic systems.
