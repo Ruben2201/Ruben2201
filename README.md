@@ -1,4 +1,4 @@
-# Mechatronic Engineer's Learning Journey
+![image](https://github.com/Ruben2201/Ruben2201/assets/148841907/70b165e4-b49e-41ec-a736-61f46537a101)# Mechatronic Engineer's Learning Journey
 Welcome to my GitHub repository! I'm a mechatronic engineer on a journey to enhance my skills in Python and web development. This repository serves as a documentation of my learning progress and a place to showcase my projects and achievements.
 
 ## About Me
@@ -31,8 +31,8 @@ Hi, I'm Ruben Sanchez, a passionate mechatronic engineer with a background in [m
 
 ## How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](link)
-- Email: your.email@example.com
+- LinkedIn: [Ruben A.Sanchez Calvo](linkedin.com/in/ruben-a-sanchez-calvo-ab6567296)
+- Email: ruben10561work@outlook.com
 
 Feel free to connect if you have questions, suggestions, or if you're interested in collaborating!
 
