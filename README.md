@@ -1,4 +1,3 @@
-![image](https://github.com/Ruben2201/Ruben2201/assets/148841907/70b165e4-b49e-41ec-a736-61f46537a101)# Mechatronic Engineer's Learning Journey
 Welcome to my GitHub repository! I'm a mechatronic engineer on a journey to enhance my skills in Python and web development. This repository serves as a documentation of my learning progress and a place to showcase my projects and achievements.
 
 ## About Me
