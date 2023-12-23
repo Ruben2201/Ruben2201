@@ -2,7 +2,7 @@ Welcome to my GitHub repository! I'm a mechatronic engineer on a journey to enha
 
 ## About Me
 
-Hi, I'm Ruben Sanchez, a passionate mechatronic engineer with a background in [mention any relevant experience]. I'm excited to expand my knowledge in Python and web development to further contribute to the field of mechatronics.
+Hi, I'm Ruben Sanchez, a passionate mechatronic engineer with a background in PLC programming and TCP communication. I'm excited to expand my knowledge in Python and web development to further contribute to the field of mechatronics.
 
 ## Learning Goals
 
