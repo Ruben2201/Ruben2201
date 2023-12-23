@@ -31,7 +31,7 @@ Hi, I'm Ruben Sanchez, a passionate mechatronic engineer with a background in [m
 
 ## How to Reach Me
 
-- LinkedIn: [Ruben A.Sanchez Calvo](linkedin.com/in/ruben-a-sanchez-calvo-ab6567296)
+- LinkedIn: [Ruben A. Sanchez Calvo](https://linkedin.com/in/ruben-a-sanchez-calvo-ab6567296)
 - Email: ruben10561work@outlook.com
 
 Feel free to connect if you have questions, suggestions, or if you're interested in collaborating!
