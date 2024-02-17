@@ -31,7 +31,7 @@ Hi, I'm Ruben Sanchez, a mechatronic engineer with a background in PLC programmi
 ## How to Reach Me
 
 - LinkedIn: [Ruben A. Sanchez Calvo](https://linkedin.com/in/ruben-a-sanchez-calvo-ab6567296)
-- Email: ruben10561work@outlook.com
+- Email: ruben.sanchez01.w@gmail.com
 
 Feel free to connect if you have questions, suggestions, or if you're interested in collaborating!
 
